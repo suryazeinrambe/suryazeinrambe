@@ -28,7 +28,7 @@
 #### My Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zendiraizel&show_icons=true&theme=apprentice"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryazeinrambe&show_icons=true&theme=apprentice"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zendiraizel&layout=compact&theme=apprentice" />
 </p>
 
