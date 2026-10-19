@@ -8,7 +8,7 @@
 
 
 
-- 😄 I’m currently Learning [Laravel](https://laravel.com) [ReactJs(https://https://react.dev/) and Framework
+- 😄 I’m currently Learning [Laravel](https://laravel.com) [ReactJs](https://https://react.dev/) and Framework
 
 #### Skils
 
